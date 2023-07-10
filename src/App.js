@@ -5,7 +5,7 @@ function ButtonComponent() {
     return alert("I am Clicked...");
   }
 
-  return <button onClick={hancleClick}>I'm Button</button>;
+  return <button onClick={hancleClick}>I'm Buttocn</button>;
 }
 
 export default function App() {
